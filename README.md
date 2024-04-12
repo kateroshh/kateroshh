@@ -7,7 +7,7 @@ Hey! Nice to see you.</p>
 
 ## 📫 Contact Me
 
-<a href="mailto:kateroshh@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:kateroshh@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />kateroshh@gmail.com</a>
 
 ## 📫 Skills
 
