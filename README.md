@@ -3,8 +3,8 @@
 ### I'm Kate - fontend developer
 
 💡 I have more than 10 years of experience in IT <br /> 📖 I love to study
-<br /> 🚩 I'm not afraid of difficult tasks. They help me grow as a specialist <br />
-🚴 I love to ride a bike, 🌸 summer and 🐬 sea 🌞
+<br /> 🚩 I'm not afraid of difficult tasks. They help me grow as a specialist
+<br /> 🚴 I love to ride a bike, 🌸 summer and 🐬 sea 🌞
 
 ## 📫 Contact Me
 
@@ -12,9 +12,8 @@
     <a href="kateroshh@gmail.com" target="_blank">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-
-    <a href="https:/t.me/kateroshh">
-        <img alt="Telegram Badge" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />
+    <a href="https://t.me/kateroshh">
+        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
 
 </div>
