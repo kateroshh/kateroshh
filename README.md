@@ -42,10 +42,10 @@
 
 ## 💡 My latest posts
 
-⭐ [**hrspace.hh.ru**](https://github.com/Space-HR/hr-space-frontend): <br />
-<p style="margin-left: 10px">Проект для HRSpace (hrspace.hh.ru) "Микросервис билдера заявки для поиска
-рекрутеров": разработка кастомных форм на JavaScript / TypeScript и с
-использованием библиотеки Formik.</p>
+- ⭐ [**hrspace.hh.ru**](https://github.com/Space-HR/hr-space-frontend): <br />
+  Проект для HRSpace (hrspace.hh.ru) "Микросервис билдера заявки для поиска
+  рекрутеров": разработка кастомных форм на JavaScript / TypeScript и с
+  использованием библиотеки Formik.
 
 ## 📊 GitHub Stats:
 
