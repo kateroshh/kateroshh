@@ -1,11 +1,13 @@
 # Hi there 👋
 
-### I'm Kate - fontend developer.
+### I'm Kate - fontend developer
 
-🌏I love to travel <br /> 🕹 Interested in technology <br /> 🆕 Always learning
-new things and not afraid to experiment
+💡 I have more than 10 years of experience in IT <br /> 📖 I love to study
+<br /> 🚩 I'm not afraid of difficult tasks. They help me grow as a specialist <br />
+🚴 I love to ride a bike, 🌸 summer and 🐬 sea 🌞
 
 ## 📫 Contact Me
+
 <div id="badges" align="contact">
     <a href="kateroshh@gmail.com" target="_blank">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -14,6 +16,7 @@ new things and not afraid to experiment
     <a href="https://t.me/kateroshh">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
+
 </div>
 
 ## 🌐 Tech Stack:
